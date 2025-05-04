@@ -6,10 +6,13 @@
 
 ## 🛠️ Технологии
 
-** - React.js**
-** - Vite**
-** - TypeScript**
-** - Vite**
+**- React.js**
+
+**- Vite**
+
+**- TypeScript**
+
+**- Vite**
 
 ## 🚀 Установка
 
@@ -19,8 +22,12 @@
 
 2. Установка зависимостей:
    ```bash
-   cd .// && npm install
+   cd UPX && npm install
 
 3. Запуск:
    ```bash
    npm run dev
+
+## 📞 Контакты
+   ● **Телеграм** — @K_a_R_a_T_e_L_L
+   ● **Email** — kirillcuhorukov6@gmail.com
